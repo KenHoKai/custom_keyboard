@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/GUIDE/pom.xml" />
+        <option value="$PROJECT_DIR$/RUN/pom.xml" />
       </set>
     </option>
   </component>
