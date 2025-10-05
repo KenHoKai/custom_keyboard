@@ -15,3 +15,10 @@ The assembled jar with dependencies will be in `target/keyboard-overlay-1.0-SNAP
 ## Notes
 - Use conservative DPI values when testing.
 - If JNA SendInput structures produce compile issues due to JNA versions, update dependency version or report the error to adjust the wrapper.
+
+## Members
+Minh Thành 
+Nguyễn Hoàng Vinh 
+Quang Hải 
+Sơn Tùng 
+Tuấn Minh 
